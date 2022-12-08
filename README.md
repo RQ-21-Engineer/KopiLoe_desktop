@@ -1,6 +1,6 @@
 # KopiLoe_desktop 
 <hr>
-<h2>Teams : </h2>
+<h2>Teams / Group 6 : </h2>
 <ul>
   <li><b>Ferry Salim (202143502676)</b> as Frontend Engineer (website), and Desktop Engineer</li>
   <li><b>Rionggo Rahardi (202143501540)</b> as Frontend Engineer (website), and Desktop Engineer</li>
